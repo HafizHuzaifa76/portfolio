@@ -1,0 +1,63 @@
+{
+    "intro": "I have a strong passion for continuous learning and enjoy exploring emerging technologies.\nThese are some  Languages, Technologies, Tools, and Platforms I have expertise in and am actively pursuing for further mastery:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/kotlin.png",
+                    "title": "Kotlin"
+                },
+                {
+                    "icon": "images/skills/dart.png",
+                    "title": "Dart (soon)"
+                },
+                {
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "Android"
+                },
+                {
+                    "icon": "images/skills/flutter.png",
+                    "title": "Flutter(soon)"
+                },
+                {
+                    "icon": "images/skills/firebase.png",
+                    "title": "FireBase(soon)"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                }
+            ]
+    }
+]}
