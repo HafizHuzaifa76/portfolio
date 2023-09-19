@@ -1,0 +1,43 @@
+{
+    "experiences": [
+        {
+            "title": "Android Developer (Kotlin)",
+            "subtitle": "CodSoft",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed Four Feature-Rich Android apps using Kotlin:- \n, \n\n",
+                "Torch Light App, Calculator App, Currency Converter App, Academic System App. (For more details, please refer to the Projects section)",
+                "Utilized RoomDatabase and Retrofit for efficient Data Storage and API Integration.",
+                "Implemented a Clean and Scalable MVVM Architecture for each App.",
+                "Delivered User-Friendly and Responsive Android Applications."
+            ],
+            "dateText": "08/2023 – 09/2023"
+        },
+        {
+            "title": "Android Developer (Java)",
+            "subtitle": "Info Aid Tech",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed Three Android Apps using Java ",
+                "Calculator, To-Do List, and Weather App. (For more details, please refer to the Projects section)",
+                "Mastered database management and API integration.",
+                "Enhanced UI/UX design for better user experiences.",
+                "Contributed to agile development in a collaborative environment."
+            ],
+            "dateText": "05/2023 – 07/2023"
+        },
+        {
+            "title": "Ambassador",
+            "subtitle": "Google DSC",
+            "workType": "GCU",
+            "workDescription": [
+                "Tech Engagement: Actively participated in hackathons, workshops, and tech-related activities.",
+                "Built a diverse network of tech enthusiasts and professionals.",
+                "Gained access to valuable course materials and webinars.",
+                "Made valuable Connections and expanded my Network by engaging with diverse Individuals.",
+                "Contributed to my Ongoing journey of Tech Excellence."
+            ],
+            "dateText": "2022 – 2023"
+        }
+    ]
+}

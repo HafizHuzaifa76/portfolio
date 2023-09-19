@@ -1,0 +1,148 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/tic-tac-game.png",
+            "title": "TIC TAC TOE Game",
+            "bodyText": "---\n- Classic Tic Tac Toe Game built for **Android** using **Java**.\n - Offers two exciting modes: **Player vs Player** and **Player vs Computer**.\n - Challenge your Friends in Player vs Player mode.\n - Test your skills against an AI opponent in Player vs Computer mode.\n - Enjoy a **User-Friendly** and **Intuitive Interface**.\n - A Perfect Game for Leisure and Brain Exercise.",
+            "links": [
+                {
+                    "text": "Demo",
+                    "href": "https://www.linkedin.com/posts/hafiz-huzaifa-khan-gcu76_tictactoe-game-tictacgame-activity-7067103519396216833-VJM0?utm_source=share&utm_medium=member_desktop"
+                }
+            ],
+            "tags" : [
+                "Android",
+                "Java",
+                "Game",
+                "Xml"
+            ]
+        },
+        {
+            "image" : "images/projects/calculator-app.png",
+            "title": "Calculator App",
+            "bodyText": "---\n- An Android Calculator App developed using **Java**.\n - Performs **Calculations** with ease and precision.\n  - Features a User-Friendly interface for effortless operation.\n  - Not only Calculates but also **Stores** previous calculations.\n  - Utilizes **Room Database** to securely save Calculation history.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HafizHuzaifa76/Calculator-App-with-Database"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://www.linkedin.com/posts/hafiz-huzaifa-khan-gcu76_task2-internship-codsoft-activity-7101957463112888320-ijpG?utm_source=share&utm_medium=member_desktop"
+                }
+            ],
+            "tags" : [
+                "Android",
+                "Java",
+                "Room Database",
+                "Xml"
+            ]
+        },
+        {
+            "image" : "images/projects/todo.png",
+            "title": "To-Do List App",
+            "bodyText": "---\n- A **Java** based Android app for efficient Task Management.\n - Empowers Users to **Add, Delete, and Mark Tasks as Done** with ease.\n - Seamlessly Stores tasks in a **Database** for Future Reference.\n - Offers a User-Friendly interface for a smooth Task Management experience.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HafizHuzaifa76/To-do-List-App"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://www.linkedin.com/posts/hafiz-huzaifa-khan-gcu76_task2-todolist-task2-activity-7073043868853633024-MLS3?utm_source=share&utm_medium=member_desktop"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "DataBase",
+                "Xml"
+            ]
+        },
+        {
+            "image" : "images/projects/weather-app.png",
+            "title": "Weather App",
+            "bodyText": "---\n- An Android App developed using **Java** for **Up-to-Date** Weather Information.\n - Fetches Weather Data from an **API** using the **Volley**.\n - Provides Weather information for the **Current Location**.\n - Allows Users to **Search** for the Weather in any City.\n - Displays **Weather Details** such as Temp, Weather Conditions, Humidity and Wind Speed.\n - Offers an **Hourly Weather Forecast** for the next 5 days.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HafizHuzaifa76/WeatherApp"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://www.linkedin.com/posts/hafiz-huzaifa-khan-gcu76_task3-internship-infoaidtech-activity-7077613097456152576-QS40?utm_source=share&utm_medium=member_desktop"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "JSON",
+                "API",
+                "Volley",
+                "Xml"
+            ]
+        },
+        {
+            "image" : "images/projects/currency-converter-app.png",
+            "title": "Currency Converter App",
+            "bodyText": "---\n- User-friendly Android App for Real-Time **Currency Conversion**.\n - Utilizes **Retrofit** for API integration.\n - Fetches **Up-to-Date** Currency Rates when **Internet is Available**.\n- Offers **Offline** support, ensuring functionality without an **Internet Connection**.\n- Utilizes **Room Database** for efficient **Data Storage**.\n- Follows the **MVVM** Architectural pattern for organized code.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HafizHuzaifa76/Currency-Converter-App"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://www.linkedin.com/posts/hafiz-huzaifa-khan-gcu76_task3-codsoft-internship-activity-7103768146787917824-gRMc?utm_source=share&utm_medium=member_desktop"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Room DB",
+                "Coroutines",
+                "Retrofit",
+                "API"
+            ]
+        },
+        {
+            "image" : "images/projects/academic-system.png",
+            "title": "Academic Sysetem App",
+            "bodyText": "---\n- Developed in **Java**, the Academic System App is designed to streamline **Academic Data Management**.\n - Efficiently stores essential **Student information** including Class details, Test scores, Attendance records, and Fee records.\n- Utilizes the power of the **Room Database** to securely store and retrieve Student data.\n- Simplifies the administrative tasks of **Educational Institutions** by centralizing Students records.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Room Database",
+                "Xml"
+            ]
+        },
+        {
+            "image" : "images/projects/torch-light.png",
+            "title": "Torch Light App",
+            "bodyText": "---\n - Android App Developed using Kotlin\n - The Torch Light App transforms your Mobile device into a handy **FlashLight**.\n - Instantly **Activates** and **Deactivates** the Device's Flashlight for convenient illumination. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/HafizHuzaifa76/Torch-Light-App"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://www.linkedin.com/posts/hafiz-huzaifa-khan-gcu76_task1-codsoft-internship-activity-7100075641315688448-q6NW?utm_source=share&utm_medium=member_desktop"
+                }
+            ],
+            "tags" : [
+                "Android",
+                "Kotlin",
+                "Xml"
+            ]
+        }
+    ]
+}
+

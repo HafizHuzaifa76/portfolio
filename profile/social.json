@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/hafiz-huzaifa-khan-gcu76/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/HafizHuzaifa76"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:hafizm.huzaifa1234gf@gmail.com"
+        },
+        {
+            "network" : "stackoverflow",
+            "href": "https://stackoverflow.com/users/22579931/hafiz-huzaifa-khan"
+        }
+    ]
+}
