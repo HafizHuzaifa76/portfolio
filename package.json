@@ -1,6 +1,5 @@
 {
   "name": "portfolio-app",
-  "homepage": "https://HafizHuzaifa76.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +7,6 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^5.1.1",
-    "gh-pages": "^6.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.0-rc.0",
@@ -40,8 +38,6 @@
     ]
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
