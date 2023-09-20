@@ -1,8 +1,8 @@
-## Demo
+## Live
 
-To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**
+To view the demo: **[click here](https://hafizhuzaifa76.github.io/portfolio)**
 
-## Why do you need a portfolio? ☝️
+## Why do you need a portfolio? ☝
 
 - Professional way to showcase your work
 - Increases your visibility and online presence
