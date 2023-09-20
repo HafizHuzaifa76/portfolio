@@ -1,6 +1,6 @@
 ## Demo
 
-To view the demo: **[click here](https://dev-portfolio-mayankagarwal09.vercel.app)**
+To view the demo: **[click here](https://hafizhuzaifa76.github.io/portfolio)**
 
 ## Why do you need a portfolio? ☝️
 
