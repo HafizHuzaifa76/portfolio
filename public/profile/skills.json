@@ -15,7 +15,7 @@
                 },
                 {
                     "icon": "images/skills/dart.png",
-                    "title": "Dart (soon)"
+                    "title": "Dart"
                 },
                 {
                     "icon": "images/skills/c-plus-plus.svg",
@@ -35,11 +35,11 @@
                 },
                 {
                     "icon": "images/skills/flutter.png",
-                    "title": "Flutter(soon)"
+                    "title": "Flutter"
                 },
                 {
                     "icon": "images/skills/firebase.png",
-                    "title": "FireBase(soon)"
+                    "title": "FireBase"
                 }
             ]
         },
