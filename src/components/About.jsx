@@ -16,25 +16,15 @@ const styles = {
     fontSize: '1.2em',
     fontWeight: 500,
     marginLeft: '40px',
-    top: '10',
-    marginTop: 20,
-    // Make text container scrollable
-    overflowY: 'auto',
-    height: '550px', // Set a fixed height for the scroll area
+    height: '550px', // Set the fixed height
+    overflowY: 'auto', // Enable vertical scrolling
   },
   introImageContainer: {
-    margin: 5,
+    margin: 10,
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
-    position: 'sticky', // Make the image container sticky
-    top: '0', // Ensure it stays at the top of the column
-    height: '100%', // Full height for alignment
-    overflow: 'hidden',
-  },
-  introImage: {
-    maxHeight: '100%', // Adjust the max height to fit your design
-    width: 'auto',
+    marginTop: '-30px',
   },
 };
 
@@ -43,7 +33,9 @@ function About(props) {
   const [data, setData] = useState(null);
 
   const parseIntro = (text) => (
-    <ReactMarkdown children={text} />
+    <ReactMarkdown
+      children={text}
+    />
   );
 
   useEffect(() => {
@@ -68,7 +60,7 @@ function About(props) {
                     {parseIntro(data.about)}
                   </Col>
                   <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" style={styles.introImage} />
+                    <img src={data?.imageSource} alt="profile" />
                   </Col>
                 </Row>
               </Fade>
