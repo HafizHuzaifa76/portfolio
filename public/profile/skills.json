@@ -22,8 +22,16 @@
                     "title": "C++"
                 },
                 {
+                    "icon": "images/skills/sql.png",
+                    "title": "SQL"
+                },
+                {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/no-sql.png",
+                    "title": "NoSQL"
                 }
         ]},
         {
@@ -40,6 +48,14 @@
                 {
                     "icon": "images/skills/firebase.png",
                     "title": "FireBase"
+                },
+                {
+                    "icon": "images/skills/getx.png",
+                    "title": "GetX"
+                },
+                {
+                    "icon": "images/skills/bloc.png",
+                    "title": "Bloc"
                 }
             ]
         },
