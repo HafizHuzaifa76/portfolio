@@ -1,9 +1,84 @@
 {
     "projects": [
+        
+        {
+            "image": "images/projects/atomic_app.jpg",
+            "title": "Aitomic Fitness App",
+            "bodyText": "---\n - A cutting-edge **Fitness** app built with **Flutter** and **Firebase**.\n - Utilizes AI to generate personalized **Workout and Meal Plans** tailored to individual fitness goals.\n - Designed with an intuitive interface for easy navigation and real-time updates on workouts and meal plans.\n - Perfect for fitness enthusiasts seeking a comprehensive and dynamic approach to their health journey.",
+            "links": [
+                {
+                    "text": "Demo",
+                    "href": ""
+                }
+            ],
+            "tags": [
+                "Flutter", "Firebase",
+                "AI", "OpenAI", "Real time Database"
+            ]
+        },
+        {
+            "image": "images/projects/neaternotes_app3.png",
+            "title": "NeaterNotes App",
+            "bodyText": "---\n- An advanced **Notes App** built using **Flutter** and **Firebase**.\n - Scans notes and images, converting them into editable notes that resemble handwritten text.\n - Allows users to customize notes and share them as PDFs.\n - Automatic stores new notes in the most relevant notebook and remembers transcription corrections to improve accuracy.",
+            "links": [
+                {
+                    "text": "Demo",
+                    "href": ""
+                }
+            ],
+            "tags": [
+                "Flutter", "Firebase", "SQL",
+                "Scanner", "Machine Learning", "AI"
+            ]
+        },
+        {
+            "image": "images/projects/driving_app.jpg",
+            "title": "Drivers App",
+            "bodyText": "---\n- An advanced **Driver Monitoring App** developed using **Flutter** and **Firebase**.\n - Tracks driving time, breaks, off-duty periods, and on-duty status.\n - Stores historical driving data and provides notifications for upcoming breaks or off-duty times.\n - Supports both **Light** and **Dark** mode for enhanced user experience. \n - Utilizes **Firebase** for real-time data synchronization and user management.",
+            "links": [
+                {
+                    "text": "Demo",
+                    "href": ""
+                }
+            ],
+            "tags": [
+                "Flutter", "Firebase", "SQL", "API",
+                "ELD Data Monitoring", "Platform Channels"
+            ]
+        },
+        {
+            "image": "images/projects/cc_app.jpg",
+            "title": "Construct and Connect App",
+            "bodyText": "---\n- A **Management App** developed using **Flutter** and **Firebase** for the construction industry.\n - Manages ongoing construction projects and teams working on these projects.\n - Facilitates team communication and task assignments within the app.\n - Utilizes **Firebase Firestore** for real-time data updates and user management.",
+            "links": [
+                {
+                    "text": "Demo",
+                    "href": ""
+                }
+            ],
+            "tags": [
+                "Flutter", "Firebase",
+                "Project Management", "Team Communication"
+            ]
+        },
+        {
+            "image": "images/projects/shop_store.jpg",
+            "title": "ShopVista App",
+            "bodyText": "---\n- A **Shopping App** built with **Flutter** and **Firebase**.\n - Includes an **Admin Panel** for managing products and users.\n - Features a **Customer Panel** where users can browse, purchase products, and add them to the cart.\n - Provides a seamless shopping experience with real-time updates and user management through **Firebase**.",
+            "links": [
+                {
+                    "text": "Demo",
+                    "href": ""
+                }
+            ],
+            "tags": [
+                "Flutter", "Firebase", "Dart", "JSON", "Firestore"
+            ]
+        },
         {
             "image": "images/projects/weather-app.png",
             "title": "Weather App",
-            "bodyText": "---\n- An Android App developed using **Java** for **Up-to-Date** Weather Information.\n - Fetches Weather Data from an **API** using the **Volley**.\n - Provides Weather information for the **Current Location**.\n - Allows Users to **Search** for the Weather in any City.\n - Displays **Weather Details** such as Temp, Weather Conditions, Humidity and Wind Speed.\n - Offers an **Hourly Weather Forecast** for the next 5 days.",
+            "bodyText": "---\n- An Android App developed using **Java** for **Up-to-Date** Weather Information.\n - Fetches Weather Data from an **API**.\n - Provides Weather information for the **Current Location**.\n - Allows to **Search** Weather of any City.\n - Displays **Weather Details** such as Temp, Weather Conditions, Humidity and Wind Speed.\n - Offers an **Hourly Weather Forecast** for the next 5 days.",
             "links": [
                 {
                     "text": "GitHub",
@@ -17,7 +92,7 @@
             "tags": [
                 "Java", "Android",
                 "JSON", "API",
-                "Volley", "Xml"
+                "Volley"
             ]
         },
         {
@@ -67,7 +142,7 @@
             ],
             "tags": [
                 "Android", "Java",
-                "Game", "Xml"
+                "Game", "Xml", "Animations", "Lottie Files"
             ]
         },
         {
@@ -111,7 +186,7 @@
         {
             "image": "images/projects/torch-light.png",
             "title": "Torch Light App",
-            "bodyText": "---\n - Android App Developed using Kotlin\n - The Torch Light App transforms your Mobile device into a handy **FlashLight**.\n - Instantly **Activates** and **Deactivates** the Device's Flashlight for convenient illumination. ",
+            "bodyText": "---\n - Android App Developed using **Kotlin**\n - The Torch Light App transforms your Mobile device into a handy **FlashLight**.\n - Instantly **Activates** and **Deactivates** the Device's Flashlight for convenient illumination. ",
             "links": [
                 {
                     "text": "GitHub",
