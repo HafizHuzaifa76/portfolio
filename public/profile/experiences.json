@@ -1,72 +1,76 @@
 {
     "experiences": [
+        {
+          "title": "Associate Software Engineer (Full Stack Flutter)",
+          "subtitle": "CBSOL",
+          "workType": "Job",
+          "workDescription": [
+            "Developing cross-platform mobile applications using Flutter with GetX and Riverpod for effective state management.",
+            "Following Clean Architecture principles to build scalable and maintainable codebases.",
+            "Integrating RESTful APIs and ensuring smooth data flow between frontend and backend systems.",
+            "Building and maintaining backend services using Node.js, Express.js, and MongoDB for robust data handling.",
+            "Collaborating with UI/UX designers, QA engineers, and fellow developers to deliver high-quality features on time.",
+            "Actively contributing to code reviews, performance optimization, and debugging to maintain code quality."
+          ],
+          "dateText": "Jan/2025 – Present"
+        },
+
+        {
+          "title": "Associate Software Engineer & Internship Coordinator (Flutter)",
+          "subtitle": "Tiers Limited",
+          "workType": "Job",
+          "workDescription": [
+            "Developed and maintained cross-platform mobile applications using Flutter for Android and iOS platforms.",
+            "Integrated Firebase services including authentication, real-time database, Firestore, and cloud storage.",
+            "Followed Clean Architecture principles to build scalable, maintainable, and testable codebases.",
+            "Utilized state management tools like GetX, and Provider for structured and reactive UI development.",
+            "Collaborated closely with backend teams and designers to ensure seamless API integration and smooth user experience.",
+            "Led performance optimization efforts, implemented efficient UI rendering and minimized app load times.",
+            "Delivered client-focused features on strict timelines while ensuring code quality through regular reviews.",
+            "Managed internship programs as Internship Training Coordinator — mentoring interns, assigning projects, and monitoring their growth and performance."
+          ],
+          "dateText": "Nov/2023 – Dec/2024"
+        },
         
         {
-            "title": "Internship Coordinator",
-            "subtitle": "Tiers Limited",
-            "workType": "Job",
-            "workDescription": [
-                "Managing internship programs and coordinating with interns for project assignments.",
-                "Providing mentorship and guidance to ensure successful project outcomes.",
-                "Leading new interns, helping them integrate into the team and providing support for their development.",
-                "Monitoring intern progress, offering feedback, and conducting performance evaluations.",
-                "Collaborating with HR to improve internship processes and recruitment strategies."
-            ],
-            "dateText": "July/2024 – Present"
+          "title": "Mobile App Developer Intern",
+          "subtitle": "Interns Pakistan",
+          "workType": "Internship",
+          "workDescription": [
+            "Worked on mobile applications using Flutter with the MVVM architectural pattern.",
+            "Integrated Firebase for real-time database operations, authentications and user data management.",
+            "Collaborated with the team to implement clean UI and efficient app logic.",
+            "Enhanced app functionality and resolved bugs during development and testing phases."
+          ],
+          "dateText": "Aug/2023 – Oct/2023"
         },
+        
         {
-            "title": "Associate Software Engineer",
-            "subtitle": "Tiers Limited",
-            "workType": "Job",
-            "workDescription": [
-                "Building and maintaining Flutter applications across multiple platforms.",
-                "Implementing new features and optimizing performance for scalability.",
-                "Delivering high-quality projects within specified timelines, ensuring client satisfaction.",
-                "Collaborating closely with design and backend teams to ensure seamless user experience and smooth data integration.",
-                "Leading app performance optimization efforts and utilizing best practices for efficient state management using BLoC and GetX.",
-                "Continuously improving existing codebases, introducing new features, and maintaining high code quality through reviews and testing."
-            ],
-            "dateText": "Mar/2024 – Present"
-        },
-        {
-            "title": "Flutter Developer",
-            "subtitle": "Tiers Limited",
-            "workType": "Internship",
-            "workDescription": [
-                "Developed cross-platform mobile applications using Flutter.",
-                "Integrated Firebase for authentication, real-time data, and cloud storage.",
-                "Utilized GetX and Provider for state management.",
-                "Followed Clean Architecture principles for scalable app development.",
-                "Worked in an agile environment, collaborating with team members to deliver high-quality features."
-            ],
-            "dateText": "Nov/2023 – Feb/2024"
-        },
-        {
-            "title": "Android Developer (Kotlin)",
+            "title": "App Developer",
             "subtitle": "CodSoft",
             "workType": "Internship",
             "workDescription": [
-                "Developed Four Feature-Rich Android apps using Kotlin:- \n, \n\n",
-                "Torch Light App, Calculator App, Currency Converter App, Academic System App. (For more details, please refer to the Projects section)",
+                "Developed Multiple Feature-Rich Android apps using Kotlin:- \n, \n\n",
                 "Utilized RoomDatabase and Retrofit for efficient Data Storage and API Integration.",
                 "Implemented a Clean and Scalable MVVM Architecture for each App.",
                 "Delivered User-Friendly and Responsive Android Applications."
             ],
-            "dateText": "Aug/2023 – Sep/2023"
+            "dateText": "July/2023"
         },
+        
         {
-            "title": "Android Developer (Java)",
+            "title": "Android Developer (Kotlin)",
             "subtitle": "Info Aid Tech",
             "workType": "Internship",
             "workDescription": [
-                "Developed Three Android Apps using Java ",
-                "Calculator, To-Do List, and Weather App. (For more details, please refer to the Projects section)",
+                "Developed Multiple Android Apps using Kotlin ",
                 "Mastered database management and API integration.",
                 "Enhanced UI/UX design for better user experiences.",
                 "Contributed to agile development in a collaborative environment."
             ],
-            "dateText": "May/2023 – July/2023"
+            "dateText": "May/2023 – June/2023"
         },
+        
         {
             "title": "App Development Core Team Member",
             "subtitle": "Google DSC",
@@ -79,6 +83,7 @@
             ],
             "dateText": "2023 – Present"
         },
+        
         {
             "title": "Ambassador",
             "subtitle": "Google DSC",
