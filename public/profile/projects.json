@@ -31,6 +31,19 @@
                 "Scanner", "Machine Learning", "AI"
             ]
         },
+        
+        {
+          "image": "images/projects/university_lms.jpg",
+          "title": "University LMS App",
+          "bodyText": "---\n - A role-based **LMS** built with **Flutter**, **Firebase**, and **Node.js** for Admins, Teachers, and Students.\n - Key features include **Smart Notifications**, **Relative Grading System**, **Chatbot for FAQs**, and real-time updates.\n - **Admins** manage users, courses, timetables, reports, and events.\n - **Teachers** handle materials, assignments, grades, attendance, and student queries.\n - **Students** access dashboards, view progress, and stay updated.\n - Built with **Clean Architecture** and **GetX** for structured, scalable development.",
+          "links": [
+          ],
+          "tags": [
+            "Flutter", "Firebase", "Node.js", "Firestore", "Firebase Messaging",
+            "REST API", "GetX", "Clean Architecture", "AI"
+          ]
+        },
+
         {
             "image": "images/projects/driving_app.jpg",
             "title": "Drivers App",
@@ -128,77 +141,6 @@
             "tags": [
                 "Java", "Android",
                 "Room Database", "Xml"
-            ]
-        },
-        {
-            "image": "images/projects/tic-tac-game.png",
-            "title": "TIC TAC TOE Game",
-            "bodyText": "---\n- Classic Tic Tac Toe Game built for **Android** using **Java**.\n - Offers two exciting modes: **Player vs Player** and **Player vs Computer**.\n - Challenge your Friends in Player vs Player mode.\n - Test your skills against an AI opponent in Player vs Computer mode.\n - Enjoy a **User-Friendly** and **Intuitive Interface**.\n - A Perfect Game for Leisure and Brain Exercise.",
-            "links": [
-                {
-                    "text": "Demo",
-                    "href": "https://www.linkedin.com/posts/hafiz-huzaifa-khan-gcu76_tictactoe-game-tictacgame-activity-7067103519396216833-VJM0?utm_source=share&utm_medium=member_desktop"
-                }
-            ],
-            "tags": [
-                "Android", "Java",
-                "Game", "Xml", "Animations", "Lottie Files"
-            ]
-        },
-        {
-            "image": "images/projects/calculator-app.png",
-            "title": "Calculator App",
-            "bodyText": "---\n- An Android Calculator App developed using **Java**.\n - Performs **Calculations** with ease and precision.\n  - Features a User-Friendly interface for effortless operation.\n  - Not only Calculates but also **Stores** previous calculations.\n  - Utilizes **Room Database** to securely save Calculation history.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/HafizHuzaifa76/Calculator-App-with-Database"
-                },
-                {
-                    "text": "Demo",
-                    "href": "https://www.linkedin.com/posts/hafiz-huzaifa-khan-gcu76_task2-internship-codsoft-activity-7101957463112888320-ijpG?utm_source=share&utm_medium=member_desktop"
-                }
-            ],
-            "tags": [
-                "Android", "Java",
-                "Room Database", "Xml"
-            ]
-        },
-        {
-            "image": "images/projects/todo.png",
-            "title": "To-Do List App",
-            "bodyText": "---\n- A **Java** based Android app for efficient Task Management.\n - Empowers Users to **Add, Delete, and Mark Tasks as Done** with ease.\n - Seamlessly Stores tasks in a **Database** for Future Reference.\n - Offers a User-Friendly interface for a smooth Task Management experience.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/HafizHuzaifa76/To-do-List-App"
-                },
-                {
-                    "text": "Demo",
-                    "href": "https://www.linkedin.com/posts/hafiz-huzaifa-khan-gcu76_task2-todolist-task2-activity-7073043868853633024-MLS3?utm_source=share&utm_medium=member_desktop"
-                }
-            ],
-            "tags": [
-                "Java", "Android",
-                "DataBase", "Xml"
-            ]
-        },
-        {
-            "image": "images/projects/torch-light.png",
-            "title": "Torch Light App",
-            "bodyText": "---\n - Android App Developed using **Kotlin**\n - The Torch Light App transforms your Mobile device into a handy **FlashLight**.\n - Instantly **Activates** and **Deactivates** the Device's Flashlight for convenient illumination. ",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/HafizHuzaifa76/Torch-Light-App"
-                },
-                {
-                    "text": "Demo",
-                    "href": "https://www.linkedin.com/posts/hafiz-huzaifa-khan-gcu76_task1-codsoft-internship-activity-7100075641315688448-q6NW?utm_source=share&utm_medium=member_desktop"
-                }
-            ],
-            "tags": [
-                "Android", "Kotlin", "Xml"
             ]
         }
     ]
