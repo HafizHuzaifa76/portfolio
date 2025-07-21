@@ -50,12 +50,24 @@
                     "title": "FireBase"
                 },
                 {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Node.js"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
+                },
+                {
                     "icon": "images/skills/getx.png",
                     "title": "GetX"
                 },
                 {
+                    "icon": "images/skills/riverpod.png",
+                    "title": "Riverpod"
+                },
+                {
                     "icon": "images/skills/bloc.png",
-                    "title": "Bloc"
+                    "title": "Bloc (soon)"
                 }
             ]
         },
@@ -69,6 +81,10 @@
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
+                },
+                {
+                    "icon": "images/skills/github.png",
+                    "title": "Github"
                 },
                 {
                     "icon": "images/skills/docker.png",
