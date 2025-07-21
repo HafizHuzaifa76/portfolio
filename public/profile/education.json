@@ -1,10 +1,10 @@
 {
     "education":[
         {
-            "title": "2021 - Present",
+            "title": "2021 - 2025",
             "cardTitle": "BS Computer Science",
             "cardSubtitle":"Government College University Lahore",
-            "cardDetailedText": "Continue...",
+            "cardDetailedText": "",
             "icon" : {
                 "src": "images/education/GC University Lahore logo.png"
             }
